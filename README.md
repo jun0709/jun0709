@@ -1,5 +1,4 @@
-[### Hi there 👋](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=header)
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=header
+![이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JunHyuck%20)
 <!--
 **jun0709/jun0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
