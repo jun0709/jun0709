@@ -1,5 +1,5 @@
 
-![이미지](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=JunHyuck%20&fontAlignY=38&rotate=19&fontAlign=76&descAlignY=67&jun-fontSize=100)
+![이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JunHyuck)
 <!--
 **jun0709/jun0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<h1> 🖥 Tech Stack 🖥</h1><br></br>
+  안녕하세요<br>
+  저는 프론트엔드개발자를 꿈꾸는 성준혁입니다<br>
+  저는 성장기라 생각하고 계속 커져갈 것입니다.
+
+<h1> 🖥 Tech Stack 🖥</h1>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML-FE5F50?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS-3B66BC?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
