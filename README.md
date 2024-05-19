@@ -15,6 +15,3 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/phptpshop-0769AD?style=flat-square&logo=adobephotoshop&logoColor=white"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun0709&langs_count=8)](https://github.com/jun0709/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun0709&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun0709&show_icons=true&theme=radical)
